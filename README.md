@@ -1,6 +1,6 @@
 ## A*算法在SLAM地图上的matlab仿真
 
-![s1](https://img.shields.io/badge/Version-v0.0.1-blue)
+![s1](https://img.shields.io/badge/Version-v0.0.1-blue) ![s2](https://img.shields.io/badge/Edit-Spray0-red)
 
 #### 说明：
 
