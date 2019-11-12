@@ -1,5 +1,11 @@
 ## A*算法在SLAM地图上的matlab仿真
 
+![s1](https://img.shields.io/badge/Version-v0.0.1-blue)
+
+#### 说明：
+
+此demo为初始版本，待优化。
+
 #### 如何使用：
 
 ​	打开/SLAMmapA_star路径算法/debug.m  MATLAB脚本
