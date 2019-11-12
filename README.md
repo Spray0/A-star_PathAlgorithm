@@ -14,4 +14,4 @@
 
 #### 仿真图：
 
-![F7DA59AE-7EE3-4B38-B23D-530250A3F7FC_1_101_o](/Users/spray0/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F7DA59AE-7EE3-4B38-B23D-530250A3F7FC_1_101_o.jpeg)
+![F7DA59AE-7EE3-4B38-B23D-530250A3F7FC_1_101_o](/https://github.com/Spray0/A-star-/blob/master/SLAMmapA_star路径算法/IMG_2522.png)
